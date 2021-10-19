@@ -10,7 +10,7 @@ Clone repository (e.g with https)
 
 Providing conda is installed locally you can create env from file(environment.yaml):
 
-`conda env create --file environment.yaml`
+`conda env create --file environment.yml`
 
 Activate env:
 
